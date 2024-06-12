@@ -1,0 +1,19 @@
+.gallery {
+    padding: 20px;
+    text-align: center;
+}
+
+.gallery a {
+    text-decoration: none;
+    padding: 5px;
+    width: 20%;
+}
+
+.gallery img {
+    width: auto;
+    height: 200px;
+    border-radius: 5px;
+    margin: 7px 0px;
+    cursor: pointer;
+    transition: .3s;
+}
